@@ -144,7 +144,7 @@ SomaOS is an original, integrated concept ready for technical realization.
 
 If you are an investor, founder, or partner aligned with this vision:  
 contact **Nenad Bursać** at [nenad@nenadbursac.com](mailto:nenad@nenadbursac.com)  
-or visit [https://nenadbursac.com/lab/soma](https://nenadbursac.com/lab/soma) _(coming soon)_
+or visit [https://nenadbursac.com/lab/soma](https://nenadbursac.com/lab/soma)
 
 ---
 
