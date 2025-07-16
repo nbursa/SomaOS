@@ -90,6 +90,7 @@ and recognize the singularity of this concept:
 
 📩 **Contact**: <nenad@nenadbursac.com>  
 🌐 **More**: [https://nenadbursac.com/lab/soma](https://nenadbursac.com/lab/soma)
+🌐 **Demo(WIP)**: [https://nenadbursac.com/soma](https://nenadbursac.com/soma)
 
 ---
 
